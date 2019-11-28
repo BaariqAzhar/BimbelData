@@ -1,0 +1,62 @@
+{
+    "ef" : {
+        "name" : "English First",
+        "jenjang" : "Small Stars, High Flyers, Traiblazers, Frontrunner, Smart English, International Exam Preparations",
+        "alamat" : "Jalan Terusan Dieng No. 62-64 Klojen, Pisang Candi, Kec. Sukun, Kota Malang, Jawa Timur 65146",
+        "deskripsi" : "EF Education merupakan lembaga pendidikan bahasa swasta terbesar di dunia yang mengkhususkan diri dalam bidang pelatihan bahasa Inggris, wisata edukatif dan pertukaran budaya."
+    },
+    "go" : {
+        "name" : "Ganesha Operation",
+        "jenjang" : "SD, SMP, SMA",
+        "alamat" : "Jalan Terusan Dieng No. 62-64 Klojen, Pisang Candi, Kec. Sukun, Kota Malang, Jawa Timur 65146",
+        "deskripsi" : "Ganesha Operation adalah bimbingan belajar yang telah menjadi bagian dari sejarah kehidupan masyarakat sejak 1984. Ganesha Operation terus mengembangkan dan membuktikan diri sebagai Bimbingan belajar terbaik dan terbesar di Indonesia. "
+    },
+    "neu" : {
+        "name" : "Neutron",
+        "jenjang" : "SD, SMP, SMA",
+        "alamat" : "Jalan Terusan Dieng No. 62-64 Klojen, Pisang Candi, Kec. Sukun, Kota Malang, Jawa Timur 65146",
+        "deskripsi" : "Ganesha Operation adalah bimbingan belajar yang telah menjadi bagian dari sejarah kehidupan masyarakat sejak 1984. Ganesha Operation terus mengembangkan dan membuktikan diri sebagai Bimbingan belajar terbaik dan terbesar di Indonesia. "
+    },
+    "sony" : {
+        "name" : "SONY SUGEMA COLLEGE",
+        "jenjang" : "SD, SMP, SMA",
+        "alamat" : "Jalan Terusan Dieng No. 62-64 Klojen, Pisang Candi, Kec. Sukun, Kota Malang, Jawa Timur 65146",
+        "deskripsi" : "Ganesha Operation adalah bimbingan belajar yang telah menjadi bagian dari sejarah kehidupan masyarakat sejak 1984. Ganesha Operation terus mengembangkan dan membuktikan diri sebagai Bimbingan belajar terbaik dan terbesar di Indonesia. "
+    },
+    "nurul" : {
+        "name" : "Nurul Fikri",
+        "jenjang" : "SD, SMP, SMA",
+        "alamat" : "Jalan Terusan Dieng No. 62-64 Klojen, Pisang Candi, Kec. Sukun, Kota Malang, Jawa Timur 65146",
+        "deskripsi" : "Ganesha Operation adalah bimbingan belajar yang telah menjadi bagian dari sejarah kehidupan masyarakat sejak 1984. Ganesha Operation terus mengembangkan dan membuktikan diri sebagai Bimbingan belajar terbaik dan terbesar di Indonesia. "
+    },
+    "cahaya" : {
+        "name" : "Cahaya Ilmu",
+        "jenjang" : "SD, SMP, SMA",
+        "alamat" : "Jalan Terusan Dieng No. 62-64 Klojen, Pisang Candi, Kec. Sukun, Kota Malang, Jawa Timur 65146",
+        "deskripsi" : "Ganesha Operation adalah bimbingan belajar yang telah menjadi bagian dari sejarah kehidupan masyarakat sejak 1984. Ganesha Operation terus mengembangkan dan membuktikan diri sebagai Bimbingan belajar terbaik dan terbesar di Indonesia. "
+    },
+    "braw" : {
+        "name" : "Brawijaya Study Club",
+        "jenjang" : "SD, SMP, SMA",
+        "alamat" : "Jalan Terusan Dieng No. 62-64 Klojen, Pisang Candi, Kec. Sukun, Kota Malang, Jawa Timur 65146",
+        "deskripsi" : "Ganesha Operation adalah bimbingan belajar yang telah menjadi bagian dari sejarah kehidupan masyarakat sejak 1984. Ganesha Operation terus mengembangkan dan membuktikan diri sebagai Bimbingan belajar terbaik dan terbesar di Indonesia. "
+    },
+    "insan" : {
+        "name" : "Insan Madani Institute",
+        "jenjang" : "SD, SMP, SMA",
+        "alamat" : "Jalan Terusan Dieng No. 62-64 Klojen, Pisang Candi, Kec. Sukun, Kota Malang, Jawa Timur 65146",
+        "deskripsi" : "Ganesha Operation adalah bimbingan belajar yang telah menjadi bagian dari sejarah kehidupan masyarakat sejak 1984. Ganesha Operation terus mengembangkan dan membuktikan diri sebagai Bimbingan belajar terbaik dan terbesar di Indonesia. "
+    },
+    "ipi" : {
+        "name" : "IPIEMS",
+        "jenjang" : "SD, SMP, SMA",
+        "alamat" : "Jalan Terusan Dieng No. 62-64 Klojen, Pisang Candi, Kec. Sukun, Kota Malang, Jawa Timur 65146",
+        "deskripsi" : "Ganesha Operation adalah bimbingan belajar yang telah menjadi bagian dari sejarah kehidupan masyarakat sejak 1984. Ganesha Operation terus mengembangkan dan membuktikan diri sebagai Bimbingan belajar terbaik dan terbesar di Indonesia. "
+    },
+    "mitra" : {
+        "name" : "Mitra Walet",
+        "jenjang" : "SD, SMP, SMA",
+        "alamat" : "Jalan Terusan Dieng No. 62-64 Klojen, Pisang Candi, Kec. Sukun, Kota Malang, Jawa Timur 65146",
+        "deskripsi" : "Ganesha Operation adalah bimbingan belajar yang telah menjadi bagian dari sejarah kehidupan masyarakat sejak 1984. Ganesha Operation terus mengembangkan dan membuktikan diri sebagai Bimbingan belajar terbaik dan terbesar di Indonesia. "
+    }
+}
